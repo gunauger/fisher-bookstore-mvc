@@ -1,0 +1,14 @@
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.deps.json
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.runtimeconfig.json
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.runtimeconfig.dev.json
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.dll
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.pdb
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.csprojAssemblyReference.cache
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.csproj.CoreCompileInputs.cache
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.RazorAssemblyInfo.cache
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.RazorAssemblyInfo.cs
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.AssemblyInfoInputs.cache
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.AssemblyInfo.cs
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.RazorTargetAssemblyInfo.cache
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.dll
+/Users/gunnarauger/Desktop/SP19/3610/AMIS3610/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.pdb
